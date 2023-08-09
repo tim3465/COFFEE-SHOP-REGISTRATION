@@ -1,0 +1,31 @@
+C:\Users\Timjo\OneDrive\Desktop\GrandCircus\Labs\Unit 7\COFFEE SHOP REGISTRATION\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Timjo\OneDrive\Desktop\GrandCircus\Labs\Unit 7\COFFEE SHOP REGISTRATION\bin\Debug\net6.0\appsettings.json
+C:\Users\Timjo\OneDrive\Desktop\GrandCircus\Labs\Unit 7\COFFEE SHOP REGISTRATION\bin\Debug\net6.0\COFFEE SHOP REGISTRATION.staticwebassets.runtime.json
+C:\Users\Timjo\OneDrive\Desktop\GrandCircus\Labs\Unit 7\COFFEE SHOP REGISTRATION\bin\Debug\net6.0\COFFEE SHOP REGISTRATION.exe
+C:\Users\Timjo\OneDrive\Desktop\GrandCircus\Labs\Unit 7\COFFEE SHOP REGISTRATION\bin\Debug\net6.0\COFFEE SHOP REGISTRATION.deps.json
+C:\Users\Timjo\OneDrive\Desktop\GrandCircus\Labs\Unit 7\COFFEE SHOP REGISTRATION\bin\Debug\net6.0\COFFEE SHOP REGISTRATION.runtimeconfig.json
+C:\Users\Timjo\OneDrive\Desktop\GrandCircus\Labs\Unit 7\COFFEE SHOP REGISTRATION\bin\Debug\net6.0\COFFEE SHOP REGISTRATION.dll
+C:\Users\Timjo\OneDrive\Desktop\GrandCircus\Labs\Unit 7\COFFEE SHOP REGISTRATION\bin\Debug\net6.0\COFFEE SHOP REGISTRATION.pdb
+C:\Users\Timjo\OneDrive\Desktop\GrandCircus\Labs\Unit 7\COFFEE SHOP REGISTRATION\obj\Debug\net6.0\COFFEE SHOP REGISTRATION.csproj.AssemblyReference.cache
+C:\Users\Timjo\OneDrive\Desktop\GrandCircus\Labs\Unit 7\COFFEE SHOP REGISTRATION\obj\Debug\net6.0\COFFEE SHOP REGISTRATION.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Timjo\OneDrive\Desktop\GrandCircus\Labs\Unit 7\COFFEE SHOP REGISTRATION\obj\Debug\net6.0\COFFEE SHOP REGISTRATION.AssemblyInfoInputs.cache
+C:\Users\Timjo\OneDrive\Desktop\GrandCircus\Labs\Unit 7\COFFEE SHOP REGISTRATION\obj\Debug\net6.0\COFFEE SHOP REGISTRATION.AssemblyInfo.cs
+C:\Users\Timjo\OneDrive\Desktop\GrandCircus\Labs\Unit 7\COFFEE SHOP REGISTRATION\obj\Debug\net6.0\COFFEE SHOP REGISTRATION.csproj.CoreCompileInputs.cache
+C:\Users\Timjo\OneDrive\Desktop\GrandCircus\Labs\Unit 7\COFFEE SHOP REGISTRATION\obj\Debug\net6.0\COFFEE SHOP REGISTRATION.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Timjo\OneDrive\Desktop\GrandCircus\Labs\Unit 7\COFFEE SHOP REGISTRATION\obj\Debug\net6.0\COFFEE SHOP REGISTRATION.RazorAssemblyInfo.cache
+C:\Users\Timjo\OneDrive\Desktop\GrandCircus\Labs\Unit 7\COFFEE SHOP REGISTRATION\obj\Debug\net6.0\COFFEE SHOP REGISTRATION.RazorAssemblyInfo.cs
+C:\Users\Timjo\OneDrive\Desktop\GrandCircus\Labs\Unit 7\COFFEE SHOP REGISTRATION\obj\Debug\net6.0\staticwebassets\msbuild.COFFEE SHOP REGISTRATION.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Timjo\OneDrive\Desktop\GrandCircus\Labs\Unit 7\COFFEE SHOP REGISTRATION\obj\Debug\net6.0\staticwebassets\msbuild.build.COFFEE SHOP REGISTRATION.props
+C:\Users\Timjo\OneDrive\Desktop\GrandCircus\Labs\Unit 7\COFFEE SHOP REGISTRATION\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.COFFEE SHOP REGISTRATION.props
+C:\Users\Timjo\OneDrive\Desktop\GrandCircus\Labs\Unit 7\COFFEE SHOP REGISTRATION\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.COFFEE SHOP REGISTRATION.props
+C:\Users\Timjo\OneDrive\Desktop\GrandCircus\Labs\Unit 7\COFFEE SHOP REGISTRATION\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Timjo\OneDrive\Desktop\GrandCircus\Labs\Unit 7\COFFEE SHOP REGISTRATION\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Timjo\OneDrive\Desktop\GrandCircus\Labs\Unit 7\COFFEE SHOP REGISTRATION\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Timjo\OneDrive\Desktop\GrandCircus\Labs\Unit 7\COFFEE SHOP REGISTRATION\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Timjo\OneDrive\Desktop\GrandCircus\Labs\Unit 7\COFFEE SHOP REGISTRATION\obj\Debug\net6.0\scopedcss\bundle\COFFEE SHOP REGISTRATION.styles.css
+C:\Users\Timjo\OneDrive\Desktop\GrandCircus\Labs\Unit 7\COFFEE SHOP REGISTRATION\obj\Debug\net6.0\scopedcss\projectbundle\COFFEE SHOP REGISTRATION.bundle.scp.css
+C:\Users\Timjo\OneDrive\Desktop\GrandCircus\Labs\Unit 7\COFFEE SHOP REGISTRATION\obj\Debug\net6.0\COFFEE SHOP REGISTRATION.dll
+C:\Users\Timjo\OneDrive\Desktop\GrandCircus\Labs\Unit 7\COFFEE SHOP REGISTRATION\obj\Debug\net6.0\refint\COFFEE SHOP REGISTRATION.dll
+C:\Users\Timjo\OneDrive\Desktop\GrandCircus\Labs\Unit 7\COFFEE SHOP REGISTRATION\obj\Debug\net6.0\COFFEE SHOP REGISTRATION.pdb
+C:\Users\Timjo\OneDrive\Desktop\GrandCircus\Labs\Unit 7\COFFEE SHOP REGISTRATION\obj\Debug\net6.0\COFFEE SHOP REGISTRATION.genruntimeconfig.cache
+C:\Users\Timjo\OneDrive\Desktop\GrandCircus\Labs\Unit 7\COFFEE SHOP REGISTRATION\obj\Debug\net6.0\ref\COFFEE SHOP REGISTRATION.dll
